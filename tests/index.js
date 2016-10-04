@@ -5,7 +5,7 @@ describe('Home', function() {
 
     it('should have title', function() {
         casper.then(function() {
-            "a".should.matchTitle
+            'u.find.any?'.should.matchTitle
         })
     })
 })
