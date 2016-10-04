@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "BDD template with mocha-casperjs",
   "scripts": {
-    "test": "mocha-casperjs && exit 0"
+    "test": "mocha-casperjs --chai-path=node_modules/chai --casper-chai-path=node_modules/casper-chai && exit 0"
   },
   "author": "",
   "license": "ISC",
