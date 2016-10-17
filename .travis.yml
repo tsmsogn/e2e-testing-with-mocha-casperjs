@@ -1,10 +1,10 @@
 language: node_js
 
 node_js:
-  - "0.11"
-  - "0.10"
+  - "4.6.0"
+  - "6.8.1"
 
-before_install: npm install -g phantomjs mocha-casperjs
+before_install: npm install -g phantomjs
 
 notifications:
   email: false
