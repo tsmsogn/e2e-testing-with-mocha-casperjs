@@ -6,7 +6,6 @@
 
 ```
 npm install -g phantomjs
-npm install -g mocha-casperjs
 npm install
 ```
 
