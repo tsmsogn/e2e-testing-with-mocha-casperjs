@@ -1,6 +1,6 @@
 # BDD template with mocha-casperjs
 
-[![Build Status](https://travis-ci.org/tsmsogn/mocha-casperjs-template.svg?branch=master)](https://travis-ci.org/tsmsogn/mocha-casperjs-template)
+[![Build Status](https://travis-ci.org/tsmsogn/e2e-testing-with-mocha-casperjs.svg?branch=master)](https://travis-ci.org/tsmsogn/e2e-testing-with-mocha-casperjs)
 
 ## Installation
 
